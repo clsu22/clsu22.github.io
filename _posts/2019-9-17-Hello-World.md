@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Haoyu SU!
+title: My FIRST blog!
 ---
 
 Hello everyone! Welcome to my website! 
