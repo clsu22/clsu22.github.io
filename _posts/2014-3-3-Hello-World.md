@@ -5,6 +5,6 @@ title: Haoyu SU!
 
 Hello everyone! Welcome to my website! 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![config.yml](https://cummings.salkeiz.k12.or.us/wp-content/uploads/sites/44/2018/07/welcome-glad-you-are-here.jpg)
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
