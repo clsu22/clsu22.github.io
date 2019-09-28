@@ -33,10 +33,10 @@ $P(cancer)=0.008$, $P(non-cancer)=0.992$
 Based on Bayes’ theorem, we can figure out the accuracy of this medical diagnosis based on our pre-knowledge. That is, we can calculate the likelihood of the patient has cancer given he has a positive result. We can build a tree to help interpretation.
 
 <p>
-![diagram_1](/images/diagram1_tree.png)
+<img src="/images/diagram1_tree.png" width="300"/>
 <p>
     
-'''$$P(cancer \mid positive) = \frac{P(positive \mid cancer)P(cancer)}{P(positive)} = \frac{P(positive \mid cancer)P(cancer)}{P(positive \mid cancer)P(cancer)+P(positive \mid non-cancer)P(non-cancer)} = \frac{0.98 \times 0.008}{0.98 \times 0.008 + 0.03 \times 0.992} \approx 20.85 \% $$'''
+$$P(cancer \mid positive) = \frac{P(positive \mid cancer)P(cancer)}{P(positive)} = \frac{P(positive \mid cancer)P(cancer)}{P(positive \mid cancer)P(cancer)+P(positive \mid non-cancer)P(non-cancer)} = \frac{0.98 \times 0.008}{0.98 \times 0.008 + 0.03 \times 0.992} \approx 20.85 \% $$
 
 
 Therefore, even if the result of medical diagnosis is positive, patients are more likely to have no cancer, which means there is a high rate of misdiagnosis.
