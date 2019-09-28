@@ -32,15 +32,21 @@ $P(cancer)=0.008$, $P(non-cancer)=0.992$
     
 Based on Bayes’ theorem, we can figure out the accuracy of this medical diagnosis based on our pre-knowledge. That is, we can calculate the likelihood of the patient has cancer given he has a positive result. We can build a tree to help interpretation.
 
+<p>
 ![diagram_1](/images/diagram1_tree.png)
+<p>
+    
+'''$$P(cancer \mid positive) = \frac{P(positive \mid cancer)P(cancer)}{P(positive)} = \frac{P(positive \mid cancer)P(cancer)}{P(positive \mid cancer)P(cancer)+P(positive \mid non-cancer)P(non-cancer)} = \frac{0.98 \times 0.008}{0.98 \times 0.008 + 0.03 \times 0.992} \approx 20.85 \% $$'''
 
-$$P(cancer \mid positive) = \frac{P(positive \mid cancer)P(cancer)}{P(positive)} = \frac{P(positive \mid cancer)P(cancer)}{P(positive \mid cancer)P(cancer)+P(positive \mid non-cancer)P(non-cancer)} = \frac{0.98 \times 0.008}{0.98 \times 0.008 + 0.03 \times 0.992} \approx 20.85 \% $$
 
 Therefore, even if the result of medical diagnosis is positive, patients are more likely to have no cancer, which means there is a high rate of misdiagnosis.
 
 Then, let's use a Venn Diagram to understand why $P(cancer \mid positive)$ is much smaller than $P(positive \mid cancer)$. Let's suppose the likelihood of event A is much smaller than the likelihood of event B. Although we know the chance of one point falling into A is large, the chance of that point falling into B is greatly reduced.
-<img src="/images/diagram2_venn.png" width="300"/>
 
+<p>
+<img src="/images/diagram2_venn.png" width="300"/>
+<p>
+    
 So far, we have discussed how the Bayes' Theorem works to change theoretical probability based on empirical knowledge. High probability events may become low probability events because of other context information, and vice versa. That is the reason that I said we have to believe that there is a deviation between theory and fact and we should be curious about abnormal things to find hidden reasons.
 
 One of the most important applications of Bayes' Theorem is Bayes' inferences which enable us to make more accurate predictions according to our known evidence. The concept of Bayes' inferences has been widely used in the neural networks so that we could trackback the likelihood of hidden layers from the outcome we simulated. This algorithm has been widely used in many fields including image recognization, advertisement marketing, healthcare and stock prediction, etc. So we can say the significance of Bayes' Theorem is far beyond our imagination.
