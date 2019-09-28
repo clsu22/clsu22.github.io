@@ -18,9 +18,9 @@ Now, let’s get started to figure out how the Bayes’s theorem works. Bayes's 
 
 $$P(A \mid B) = \frac{P(B \mid A)P(A)}{P(B)}$$
 where A and B are events and $P(B)\neq 0$
-* $P(A \mid B)$: the likelihood of event A given the likelihood of event B (prior probability)
-* $P(B \mid A)$: the likelihood of event B given the likelihood of event A (posterior probability)
-* $P(B)$: the likelihood of event B (marginal probability)
+- $P(A \mid B)$: the likelihood of event A given the likelihood of event B (prior probability)
+- $P(B \mid A)$: the likelihood of event B given the likelihood of event A (posterior probability)
+- $P(B)$: the likelihood of event B (marginal probability)
 
 Considering a medical diagnosis problem, there are two possible assumptions: 1. The patient has cancer; 2. The patient doesn't have cancer. The sample data comes from a test that also has two possible results: positive and negative. Suppose we had prior knowledge that only 0.008 of the population had the disease and that the test had a 98% chance of returning a positive result for those with the disease (true positive) and a 97% chance of returning a negative result for those without the disease (true negative).
 
@@ -34,7 +34,7 @@ Based on Bayes’ theorem, we can figure out the accuracy of this medical diagno
 
 ![diagram_1](/images/diagram1_tree.png)
 
-$P(cancer \mid positive) = \frac{P(positive \mid cancer)P(cancer)}{P(positive)} = \frac{P(positive \mid cancer)P(cancer)}{P(positive \mid cancer)P(cancer)+P(positive \mid non-cancer)P(non-cancer)} = \frac{0.98 \times 0.008}{0.98 \times 0.008 + 0.03 \times 0.992} \approx 20.85 \% $
+$$P(cancer \mid positive) = \frac{P(positive \mid cancer)P(cancer)}{P(positive)} = \frac{P(positive \mid cancer)P(cancer)}{P(positive \mid cancer)P(cancer)+P(positive \mid non-cancer)P(non-cancer)} = \frac{0.98 \times 0.008}{0.98 \times 0.008 + 0.03 \times 0.992} \approx 20.85 \% $$
 
 Therefore, even if the result of medical diagnosis is positive, patients are more likely to have no cancer, which means there is a high rate of misdiagnosis.
 
