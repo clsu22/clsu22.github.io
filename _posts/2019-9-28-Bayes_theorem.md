@@ -44,7 +44,7 @@ Therefore, even if the result of medical diagnosis is positive, patients are mor
 Then, let's use a Venn Diagram to understand why $P(cancer \mid positive)$ is much smaller than $P(positive \mid cancer)$. Let's suppose the likelihood of event A is much smaller than the likelihood of event B. Although we know the chance of one point falling into A is large, the chance of that point falling into B is greatly reduced.
 
 <p>
-<img src="/images/diagram2_venn.png" width="300"/>
+<img src="/images/diagram2_venn.png"/>
 <p>
     
 So far, we have discussed how the Bayes' Theorem works to change theoretical probability based on empirical knowledge. High probability events may become low probability events because of other context information, and vice versa. That is the reason that I said we have to believe that there is a deviation between theory and fact and we should be curious about abnormal things to find hidden reasons.
