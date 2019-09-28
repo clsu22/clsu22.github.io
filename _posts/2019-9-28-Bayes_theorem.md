@@ -16,7 +16,7 @@ From the two examples above, We can see that using other empirical information i
 Now, let’s get started to figure out how the Bayes’s theorem works. Bayes's theorem describe the probability of an event based on the pirior probability of its related event. It can be stated mathematically as the following equation:
 
 
-$P(A \mid B) = \frac{P(B \mid A)P(A)}{P(B)}$
+$$P(A \mid B) = \frac{P(B \mid A)P(A)}{P(B)}$$
 where A and B are events and $P(B)\neq 0$
 * $P(A \mid B)$: the likelihood of event A given the likelihood of event B (prior probability)
 * $P(B \mid A)$: the likelihood of event B given the likelihood of event A (posterior probability)
