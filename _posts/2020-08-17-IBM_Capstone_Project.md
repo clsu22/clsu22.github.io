@@ -138,7 +138,7 @@ relatively from Downtown in cluster 1 or other neighborhoods in cluster
     title="Inline Frame Example"
     width="300"
     height="200"
-    src="https://github.com/clsu22/IBM-Capstone-Project/blob/master/result/vancouver_neighborhood_clustering.html">
+    src="/images/vancouver_neighborhood_clustering.html">
 </iframe>
 
 Figure 4. Neighborhood segmentation result
