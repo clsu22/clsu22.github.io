@@ -100,13 +100,14 @@ Neighborhoods in cluster 1 (purple) and cluster 2 (blue) are full of different k
 
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
-    width="600"
-    height="500"
+    width="700"
+    height="600"
     src="/images/vancouver_neighborhood_clustering.html">
 </iframe>
 
+<p class="caption">
 Figure 4. Neighborhood segmentation result
-
+</p>
 
 
 # Conclusion
