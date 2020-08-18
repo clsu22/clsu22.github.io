@@ -100,8 +100,8 @@ Neighborhoods in cluster 1 (purple) and cluster 2 (blue) are full of different k
 
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
-    width="800"
-    height="600"
+    width="600"
+    height="500"
     src="/images/vancouver_neighborhood_clustering.html">
 </iframe>
 
