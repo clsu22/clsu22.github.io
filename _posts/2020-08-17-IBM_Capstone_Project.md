@@ -133,13 +133,17 @@ competition, I would recommand you to open restaurants in neighborhoods
 relatively from Downtown in cluster 1 or other neighborhoods in cluster
 2 or cluster 3.
 
-!![neighborhood segementation]('/images/vancouver_neighborhood_clustering.html')
+
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="https://github.com/clsu22/IBM-Capstone-Project/blob/master/result/vancouver_neighborhood_clustering.html">
+</iframe>
 
 Figure 4. Neighborhood segmentation result
 
-</p>
 
-</div>
 
 # Conclusion
 
