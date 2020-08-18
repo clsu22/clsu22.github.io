@@ -113,6 +113,9 @@ Figure 3. Elbow plot
 
 </p>
 
+
+</div>
+
 # Discussion
 
 Neighborhoods in cluster 1 (purple) and cluster 2 (blue) are full of
@@ -130,13 +133,7 @@ competition, I would recommand you to open restaurants in neighborhoods
 relatively from Downtown in cluster 1 or other neighborhoods in cluster
 2 or cluster 3.
 
-<div class="figure" style="text-align: center">
-
-<img src="../img/clustering_result.jpg" alt="Figure 4. Neighborhood segmentation result" width="80%" height="80%" />
-
-<p class="caption">
-
-<iframe class="map", src="/images/vancouver_neighborhood_clustering.html" width="1100" height="600"></iframe>
+!![neighborhood segementation]('/images/vancouver_neighborhood_clustering.html')
 
 Figure 4. Neighborhood segmentation result
 
