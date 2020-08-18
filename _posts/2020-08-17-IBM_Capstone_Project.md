@@ -75,7 +75,7 @@ least number of venues Killarney.
 
 <div class="figure" style="text-align: center">
 
-<img src="/images/count_bar.png" alt="Figure 1. The number of venues in each neighborhood" width="90%" height="90%" />
+<img src="/images/count_bar.png" alt="Figure 1. The number of venues in each neighborhood" width="100%" height="100%" />
 
 <p class="caption">
 
@@ -105,7 +105,7 @@ neighborhoods in 5 clusters. The result of clustering is shown in Table
 
 <div class="figure" style="text-align: center">
 
-<img src="/images/elbow_plot.png" alt="Figure 3. Elbow plot" width="80%" height="80%" />
+<img src="/images/elbow_plot.png" alt="Figure 3. Elbow plot" width="100%" height="100%" />
 
 <p class="caption">
 
@@ -136,8 +136,8 @@ relatively from Downtown in cluster 1 or other neighborhoods in cluster
 
 <iframe id="inlineFrameExample"
     title="Inline Frame Example"
-    width="300"
-    height="200"
+    width="800"
+    height="600"
     src="/images/vancouver_neighborhood_clustering.html">
 </iframe>
 
