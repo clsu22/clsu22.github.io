@@ -1,11 +1,12 @@
-IBM Data Science Capstone Project - The Battle of Neighborhoods in
-Vancouver
-================
-Haoyu Su  
-Updated:
-August 17, 2020
+---
+layout: post
+title: IBM Data Science Capstone Project - The Battle of Neighborhoods in Vancouver
+---
+Author: Haoyu Su  
+Updated: August 17, 2020
 
-![](../images/vancouver.jpg)
+<img src="/images/vancouver.png"/>
+
 
 # Introduction
 
