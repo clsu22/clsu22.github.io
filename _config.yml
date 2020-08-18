@@ -6,7 +6,7 @@
 name: Haoyu (Clara) Su 
 
 # Short bio or description (displayed in the header)
-description: UBC Master of Data Science student
+description: Master of Data Science | University of British Columbia 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/clsu22/clsu22.github.io/master/images/logo.png
@@ -22,7 +22,7 @@ footer-links:
   flickr:
   github: https://github.com/clsu22
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/haoyu-clara-su-b58576194/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
