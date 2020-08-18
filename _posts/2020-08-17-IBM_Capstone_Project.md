@@ -87,7 +87,7 @@ Figure 1. The number of venues in each neighborhood
 
 <div class="figure" style="text-align: center">
 
-<img src="/images/heatmap.png" alt="Figure 2. The frequency of top 10 venues in each neighborhood" width="80%" height="80%" />
+<img src="/images/heatmap.png" alt="Figure 2. The frequency of top 10 venues in each neighborhood" width="800" height="600" />
 
 <p class="caption">
 
