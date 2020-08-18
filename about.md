@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data problems solver 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently a graduate student of Master of Data Science with data analytics and project management experience. Good at Python, R, SQL, statistics and machine learning. Looking forward to developing and applying analytics methods to support strategies making. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[haoyu.su.ubc@gmail.com](mailto:haoyu.su.ubc@gmail.com)
