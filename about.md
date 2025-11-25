@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 🙋‍♀️ AI & Data Engineering · Health Intelligence · Curious Human
+
 🕹️ Data, health, and humanity - engineered together.
 
 ### More Information   
 
 ⚙️ Ex-Roche · Ex-BCCDC · Ex-Deloitte
+
 🎓 Master’s in Data Science (UBC) · Bachelor’s in Bioinformatics (UWaterloo)
 
 ### Contact me
