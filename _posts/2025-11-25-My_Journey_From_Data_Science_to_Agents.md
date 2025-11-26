@@ -2,7 +2,7 @@
 layout: post
 title: My Path to Agents—and the Future I See for Pharm
 ---
-Author: Clara  
+Author: Clara Su
 Updated: Nov 25, 2025
 
 # Why Now: Data Science → Data Engineering → GenAI → Multi-Agent Systems
