@@ -2,8 +2,6 @@
 layout: post
 title: My Path to Agents—and the Future I See for Pharm
 ---
-Author: Clara Su
-Updated: Nov 25, 2025
 
 # Why Now: Data Science → Data Engineering → GenAI → Multi-Agent Systems
 My career across Deloitte, CDC, and Roche has shown me how much of drug development and surveillance still relies on fragmented workflows, manual coordination, and human effort just to move data from one step to the next. Even with modern pipelines and dashboards, the real bottleneck has always been orchestration—translating strategy into experiments, experiments into analysis, and analysis into decisions.
