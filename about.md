@@ -9,7 +9,7 @@ permalink: /about/
 
 ### More Information   
 
-⚙️ Ex-Roche · Ex-BCCDC · Ex-Deloitte
+⚙️ Ex-Roche · Ex-CDC · Ex-Deloitte
 
 🎓 Master’s in Data Science (UBC) · Bachelor’s in Bioinformatics (UWaterloo)
 
